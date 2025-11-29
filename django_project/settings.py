@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     # ------------------------------------
     "accounts",  # adding our accounts app.
     "pages",  # adding pages app.
+    "articles",  # adding articles app.
 ]
 
 AUTH_USER_MODEL = "accounts.CustomUser"  # new Custom user model
@@ -112,7 +113,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = "en-us"
 
-TIME_ZONE = "UTC"
+TIME_ZONE = "Asia/Kolkata"  # time zone of india
 
 USE_I18N = True
 
