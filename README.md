@@ -3,6 +3,17 @@
 
 News App is a Django-based web application that fetches and displays the latest news articles from a news API. This project demonstrates my ability to build full-stack web applications, write clean and testable code, and manage environment variables securely.
 
+![Home](screenshots/1.png)
+![SignUp](screenshots/2.png)
+![LogIn](screenshots/3.png)
+![LoggedIn](screenshots/4.png)
+![Articles](screenshots/5.png)
+![Edit](screenshots/6.png)
+![Comment](screenshots/7.png)
+![PasswordChange](screenshots/8.png)
+
+and many more features, like if user has loggedIn, He/She can only edit his/her articles (like delete, edit), he/she can't edit the articles of other users... and etc..
+
 ✅ Key Features
 
 * Fetches news from a live API
